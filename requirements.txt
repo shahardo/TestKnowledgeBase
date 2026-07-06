@@ -3,6 +3,7 @@ chromadb
 sentence-transformers
 scikit-learn
 plotly
+nbformat
 pandas
 numpy
 pypdf
