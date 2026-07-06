@@ -1,0 +1,10 @@
+groq
+chromadb
+sentence-transformers
+scikit-learn
+plotly
+pandas
+numpy
+pypdf
+python-dotenv
+ipykernel
