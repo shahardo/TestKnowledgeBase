@@ -9,3 +9,5 @@ numpy
 pypdf
 python-dotenv
 ipykernel
+networkx
+pyvis

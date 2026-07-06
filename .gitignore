@@ -4,6 +4,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 chroma_db/
+chroma_db_graph/
+graph_db/
 data/*
 answer.html
 .model_cache/
