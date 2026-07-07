@@ -5,7 +5,12 @@ __pycache__/
 .ipynb_checkpoints/
 chroma_db/
 chroma_db_graph/
+chroma_db_wiki/
+chroma_db_wiki_docs/
+chroma_db_wiki_pages/
 graph_db/
+wiki_graph_db/
+wiki/
 data/*
 answer.html
 .model_cache/
